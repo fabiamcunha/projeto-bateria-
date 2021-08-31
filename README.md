@@ -1,7 +1,7 @@
 # projeto-bateria-
  Bateria acustica
  
-  ## # INSTRUÇÃO
+  ## INSTRUÇÃO
  Teclas utilizadas  
 Q ,
 W,
