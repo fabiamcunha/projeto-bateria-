@@ -19,4 +19,4 @@ C.
 - javascript
 
 ### PRE -REQUISITOS  
-Não necessita de nunhuma instalção previa
+Não necessita de nunhuma instalação previa
